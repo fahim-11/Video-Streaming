@@ -7,7 +7,7 @@ Follow these steps to get the sample app up and running:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/videosdk-live/videosdk-rtc-react-sdk-example.git
+git clone https://github.com/fahim-11/Video-Streaming.git
 ```
 
 ### Step 2: Set Up Environment Variables
