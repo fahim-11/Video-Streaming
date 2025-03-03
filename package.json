@@ -19,7 +19,7 @@
     "react-responsive": "^10.0.1",
     "react-scripts": "^5.0.1",
     "react-toastify": "^11.0.3",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^4.2.4"
   },
   "overrides": {
     "nth-check": "2.1.1",
