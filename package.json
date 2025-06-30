@@ -15,7 +15,7 @@
     "postcss-loader": "^8.1.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-player": "^2.13.0",
+    "react-player": "^3.0.0",
     "react-responsive": "^10.0.1",
     "react-scripts": "^5.0.1",
     "react-toastify": "^11.0.3",
